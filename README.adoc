@@ -22,3 +22,7 @@ image::mascara_foto.jpeg[]
 Finalmente, apliqué la máscara y realicé un borde negro alrededor de la copia terminada.
 
 image::foto_final.jpeg[]
+
+=== Errores
+
+Vi despues de revelar, que quedo un borde blanco en la parte superior derecha de la foto, que deberia haber utilizando un mayor margen del borde negro. Otro error, es la mascara, que se nota ligeramente la exposicion adicional a la luz hecha, en la parte derecha del edificio.

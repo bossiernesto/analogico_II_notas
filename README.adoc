@@ -1,5 +1,5 @@
 = Entrega de foto realizada en el laboratorio usando Tecnicas de Analogico II
-:author: [Tu nombre]
+:author: Ernesto Bossi
 :revdate: 2025-09-06
 :doctype: report
 
@@ -17,4 +17,8 @@ Tras la primera medición, cambié al filtro +1 para crear una máscara que sepa
 
 Con los 6 segundos y el filtro +3 como referencia, calculé el tiempo adecuado para este filtro y opté por quemar ligeramente el cielo. Para ello, utilicé la máscara con un tiempo adicional de 1,5 segundos con filtro +1.
 
+image::mascara_foto.jpeg[]
+
 Finalmente, apliqué la máscara y realicé un borde negro alrededor de la copia terminada.
+
+image::foto_final.jpeg[]
